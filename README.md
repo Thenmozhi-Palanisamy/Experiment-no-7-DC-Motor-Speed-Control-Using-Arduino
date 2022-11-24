@@ -62,6 +62,7 @@ delay(10);
 }
 
 ### OUTPUT:
+```
 ![output](./ss4.png)
 
 
