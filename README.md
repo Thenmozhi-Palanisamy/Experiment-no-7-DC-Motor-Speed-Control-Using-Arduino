@@ -29,7 +29,7 @@ As shown in the circuit diagram we need only 3 Arduino terminal pins, pin 8 is f
 
 Name:Thenmozhi p
 reg no: 212221230116
-
+```
 #define m1 2
 #define m2 3
 #define m3 4
